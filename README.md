@@ -12,6 +12,14 @@ _A XXXXXXXXX website where a user can XXXXXXXXXXXXXXXXXX._
 ## Specifications
 *Some will exist*
 
+
+## Setup
+1. Run `$ npm install`.
+2. Run `$ bower install`.
+3. Run `$ echo >> .env "exports.apiKey = '{API_KEY}';"`.
+4. Run `$ gulp build`.
+5. Run `$ gulp serve`.
+
 ## Known Bugs
 
 _No known bugs._
